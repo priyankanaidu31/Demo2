@@ -1,0 +1,8 @@
+
+application id :3b932ad8-0af8-448b-be56-c3fc8dc74364
+
+secret key : YBZt+@f75me5xwF.HcMk5lj/Iy5oj/6y
+
+keyvault key : https://priyankakeyvault.vault.azure.net/keys/key/15546599c2924cb088f180cbf871b25b
+
+15546599c2924cb088f180cbf871b25b
